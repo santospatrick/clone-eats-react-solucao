@@ -22,11 +22,11 @@
 This repo already got the styles and images we will be using at the project! Besides that, it has a configuration of best practices within the code from ESLint!
 
 ## What will we do?
-* [ ] Route for home page
-* [ ] Route for products from each restaurant
-* [ ] Route for cart
-* [ ] Transition between routes (with [react-pose](https://www.npmjs.com/package/react-pose))
-* [ ] Add [Context API](https://reactjs.org/docs/context.html) for state management of the app
+* [x] Route for home page
+* [x] Route for products from each restaurant
+* [x] Route for cart
+* [x] Transition between routes (with [react-pose](https://www.npmjs.com/package/react-pose))
+* [x] Add [Context API](https://reactjs.org/docs/context.html) for state management of the app
 
 ## Special thanks!
 * [Flaticon](https://www.flaticon.com/)

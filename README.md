@@ -21,11 +21,11 @@
 9. Inscreva-se no meu canal do [twitch](https://www.twitch.tv/patrickcoding), vamos desenvolver a UI juntos dia 27 das 14h as 18h (GMT-3)
 
 ## O que vamos desenvolver?
-* [ ] Rota para página inicial
-* [ ] Rota para produtos de cada restaurante
-* [ ] Rota para carrinho
-* [ ] Transição entre rotas (com [react-pose](https://www.npmjs.com/package/react-pose))
-* [ ] Adicionar [Context API](https://reactjs.org/docs/context.html) para controlar estados da aplicação
+* [x] Rota para página inicial
+* [x] Rota para produtos de cada restaurante
+* [x] Rota para carrinho
+* [x] Transição entre rotas (com [react-pose](https://www.npmjs.com/package/react-pose))
+* [x] Adicionar [Context API](https://reactjs.org/docs/context.html) para controlar estados da aplicação
 
 ## Para que serve esse repositório?
 Esse repositório já tem os estilos e imagens que vamos usar no projeto! Além disso, temos uma configuração de boas práticas de código a partir do ESLint!
