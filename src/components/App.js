@@ -44,7 +44,7 @@ class App extends Component {
           >
             <Header />
             <PoseGroup flipMove={false}>
-              <RouteContainer key={location.key}>
+              <RouteContainer key={location.pathname}>
                 <Switch location={location}>
                   <Route exact path="/" component={Content} />
                   <Route path="/cart" component={Cart} />
